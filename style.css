@@ -53,3 +53,10 @@ table, th, td{
     justify-content: center;
 }
 
+@media (max-width: 900px) {
+    body {
+        max-width: 600px;
+        height: 950px;
+    }
+}
+
